@@ -7,6 +7,20 @@ sites:
     url: https://drabdigital.com
   - name: Wonderland Treks & Tours
     url: https://wonderland-india.com
+  - name: Origin Academy Singapore
+    url: https://theoriginacademy.com
+  - name: Samridhi
+    url: https://samridhi.store
+  - name: Kuber Fast Meals
+    url: https://kuberfastmeals.in
+  - name: Blissify
+    url: https://blissify.ca
+  - name: Hotal The Nest
+    url: https://hotelthenest.com/
+  - name: Blue Diamonds Adventure
+    url: https://bluediamondsadventure.com
+  - name: AGS Decor
+    url: https://agsdecor.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
