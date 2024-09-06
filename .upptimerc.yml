@@ -5,6 +5,8 @@ repo: drabdigital-uptime-moniter  # The name of this repository
 sites:
   - name: DrabDigital
     url: https://drabdigital.com
+  - name: Wonderland Treks & Tours
+    url: https://wonderland-india.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
