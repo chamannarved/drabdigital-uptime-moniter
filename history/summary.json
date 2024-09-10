@@ -112,19 +112,19 @@
     "url": "https://bluediamondsadventure.com",
     "icon": "https://icons.duckduckgo.com/ip3/bluediamondsadventure.com.ico",
     "slug": "blue-diamonds-adventure",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2892,
-    "timeDay": 2852,
-    "timeWeek": 2892,
-    "timeMonth": 2892,
-    "timeYear": 2892,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 3143,
+    "timeDay": 3702,
+    "timeWeek": 3143,
+    "timeMonth": 3143,
+    "timeYear": 3143,
     "dailyMinutesDown": {
-      "2024-09-10": 0
+      "2024-09-10": 18
     }
   }
 ]
