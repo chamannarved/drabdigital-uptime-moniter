@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 6268,
     "timeDay": 11001,
-    "timeWeek": 6268,
+    "timeWeek": 9040,
     "timeMonth": 6268,
     "timeYear": 6268,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "https://wonderland-india.com",
     "icon": "https://icons.duckduckgo.com/ip3/wonderland-india.com.ico",
     "slug": "wonderland-treks-and-tours",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 865,
+    "status": "up",
+    "uptime": "99.00%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
+    "time": 873,
     "timeDay": 970,
-    "timeWeek": 865,
-    "timeMonth": 865,
-    "timeYear": 865,
+    "timeWeek": 903,
+    "timeMonth": 873,
+    "timeYear": 873,
     "dailyMinutesDown": {
-      "2024-09-13": 0
+      "2024-09-13": 102
     }
   },
   {
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 8290,
     "timeDay": 9653,
-    "timeWeek": 8290,
+    "timeWeek": 8232,
     "timeMonth": 8290,
     "timeYear": 8290,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 3748,
     "timeDay": 3660,
-    "timeWeek": 3748,
+    "timeWeek": 3929,
     "timeMonth": 3748,
     "timeYear": 3748,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 587,
     "timeDay": 297,
-    "timeWeek": 587,
+    "timeWeek": 191,
     "timeMonth": 587,
     "timeYear": 587,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 5765,
     "timeDay": 9616,
-    "timeWeek": 5765,
+    "timeWeek": 6563,
     "timeMonth": 5765,
     "timeYear": 5765,
     "dailyMinutesDown": {}
@@ -122,7 +122,7 @@
     "uptimeYear": "99.82%",
     "time": 3432,
     "timeDay": 5100,
-    "timeWeek": 3432,
+    "timeWeek": 3860,
     "timeMonth": 3432,
     "timeYear": 3432,
     "dailyMinutesDown": {
