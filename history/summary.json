@@ -22,9 +22,9 @@
     "url": "https://wonderland-india.com",
     "icon": "https://icons.duckduckgo.com/ip3/wonderland-india.com.ico",
     "slug": "wonderland-treks-and-tours",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 865,
     "timeMonth": 865,
     "timeYear": 865,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   },
   {
     "name": "Origin Academy Singapore",
@@ -113,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluediamondsadventure.com.ico",
     "slug": "blue-diamonds-adventure",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 3432,
     "timeDay": 5100,
     "timeWeek": 3432,
