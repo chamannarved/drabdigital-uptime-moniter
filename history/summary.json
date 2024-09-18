@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wonderland-india.com.ico",
     "slug": "wonderland-treks-and-tours",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.84%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
     "time": 872,
     "timeDay": 825,
     "timeWeek": 891,
@@ -79,9 +79,9 @@
     "url": "https://blissify.ca",
     "icon": "https://icons.duckduckgo.com/ip3/blissify.ca.ico",
     "slug": "blissify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,7 +90,9 @@
     "timeWeek": 178,
     "timeMonth": 455,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-18": 0
+    }
   },
   {
     "name": "Hotal The Nest",
