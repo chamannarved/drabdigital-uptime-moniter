@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wonderland-india.com.ico",
     "slug": "wonderland-treks-and-tours",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
     "time": 884,
     "timeDay": 949,
     "timeWeek": 871,
@@ -43,9 +43,9 @@
     "url": "https://theoriginacademy.com",
     "icon": "https://icons.duckduckgo.com/ip3/theoriginacademy.com.ico",
     "slug": "origin-academy-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 5962,
     "timeMonth": 7987,
     "timeYear": 7987,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-30": 0
+    }
   },
   {
     "name": "Kuber Fast Meals",
