@@ -43,19 +43,19 @@
     "url": "https://theoriginacademy.com",
     "icon": "https://icons.duckduckgo.com/ip3/theoriginacademy.com.ico",
     "slug": "origin-academy-singapore",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 7898,
-    "timeDay": 6438,
-    "timeWeek": 6117,
-    "timeMonth": 7898,
-    "timeYear": 7898,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 8037,
+    "timeDay": 7881,
+    "timeWeek": 6726,
+    "timeMonth": 8037,
+    "timeYear": 8037,
     "dailyMinutesDown": {
-      "2024-09-30": 30
+      "2024-09-30": 42
     }
   },
   {
