@@ -4,18 +4,20 @@
     "url": "https://drabdigital.com",
     "icon": "https://icons.duckduckgo.com/ip3/drabdigital.com.ico",
     "slug": "drab-digital",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 8864,
     "timeDay": 12863,
     "timeWeek": 10308,
     "timeMonth": 10081,
     "timeYear": 8864,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 5
+    }
   },
   {
     "name": "Wonderland Treks & Tours",
@@ -63,18 +65,20 @@
     "url": "https://kuberfastmeals.in",
     "icon": "https://icons.duckduckgo.com/ip3/kuberfastmeals.in.ico",
     "slug": "kuber-fast-meals",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 5807,
     "timeDay": 3873,
     "timeWeek": 7835,
     "timeMonth": 6462,
     "timeYear": 5807,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 3
+    }
   },
   {
     "name": "Blissify",
@@ -101,10 +105,10 @@
     "url": "https://hotelthenest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hotelthenest.com.ico",
     "slug": "hotal-the-nest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6820,
@@ -112,16 +116,18 @@
     "timeWeek": 8015,
     "timeMonth": 7206,
     "timeYear": 6820,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 2
+    }
   },
   {
     "name": "Blue Diamonds Adventure",
     "url": "https://bluediamondsadventure.com",
     "icon": "https://icons.duckduckgo.com/ip3/bluediamondsadventure.com.ico",
     "slug": "blue-diamonds-adventure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -131,6 +137,7 @@
     "timeMonth": 4215,
     "timeYear": 3932,
     "dailyMinutesDown": {
+      "2024-10-11": 0,
       "2024-09-10": 18
     }
   }
