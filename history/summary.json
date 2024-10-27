@@ -25,9 +25,9 @@
     "url": "https://wonderland-india.com",
     "icon": "https://icons.duckduckgo.com/ip3/wonderland-india.com.ico",
     "slug": "wonderland-treks-and-tours",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
@@ -37,6 +37,7 @@
     "timeMonth": 951,
     "timeYear": 919,
     "dailyMinutesDown": {
+      "2024-10-27": 0,
       "2024-09-15": 116,
       "2024-09-13": 102
     }
@@ -110,11 +111,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hotelthenest.com.ico",
     "slug": "hotal-the-nest",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 7447,
     "timeDay": 8690,
     "timeWeek": 7736,
