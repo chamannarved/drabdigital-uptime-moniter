@@ -25,9 +25,9 @@
     "url": "https://wonderland-india.com",
     "icon": "https://icons.duckduckgo.com/ip3/wonderland-india.com.ico",
     "slug": "wonderland-treks-and-tours",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
@@ -37,6 +37,7 @@
     "timeMonth": 936,
     "timeYear": 915,
     "dailyMinutesDown": {
+      "2024-11-02": 0,
       "2024-09-15": 116,
       "2024-09-13": 102
     }
