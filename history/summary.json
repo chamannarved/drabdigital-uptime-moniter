@@ -51,11 +51,11 @@
     "url": "https://theoriginacademy.com",
     "icon": "https://icons.duckduckgo.com/ip3/theoriginacademy.com.ico",
     "slug": "origin-academy-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "81.46%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "99.39%",
+    "uptimeDay": "81.82%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.78%",
     "time": 8789,
     "timeDay": 8976,
@@ -63,7 +63,7 @@
     "timeMonth": 9216,
     "timeYear": 8789,
     "dailyMinutesDown": {
-      "2024-12-07": 239,
+      "2024-12-07": 234,
       "2024-12-06": 27,
       "2024-09-30": 29
     }
