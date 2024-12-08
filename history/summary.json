@@ -53,9 +53,9 @@
     "slug": "origin-academy-singapore",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "77.61%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "99.20%",
+    "uptimeDay": "80.00%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.72%",
     "time": 8857,
     "timeDay": 9087,
@@ -63,7 +63,7 @@
     "timeMonth": 9250,
     "timeYear": 8857,
     "dailyMinutesDown": {
-      "2024-12-07": 322,
+      "2024-12-07": 317,
       "2024-12-06": 27,
       "2024-09-30": 29
     }
